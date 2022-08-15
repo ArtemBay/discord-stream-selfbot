@@ -18,5 +18,5 @@ or follow text guide
 6. Upload image
 7. Copy image id
 8. Paste image id in code
-9. Now you can run bot with command``` python3 main.py ```
+9. Now you can run bot with this command: ```python3 main.py```.
 If you get error what module "discord" not found. Run this command: "python3 -m pip3 install discord". After this you can run bot
