@@ -4,7 +4,7 @@ bot = commands.Bot(command_prefix = "+", selfbot = True)
 
 account_token = 'Discord account token'
 application_id = 972841533600567356
-large_image_id = '1008393123933724752'
+large_image_id = 1008393123933724752
 
 
 @bot.event
@@ -16,7 +16,7 @@ async def on_ready():
 			details = "мышь крутиться (дрифтит) под клевый фонк",
 			name = "мышь крутиться (дрифтит) под клевый фонк",
 			assets = {
-			  'large_image' : large_image_id,
+			  'large_image' : str(large_image_id),
 			  'large_text':'t.me/player24x7'
 			},
 			url = "https://www.twitch.tv/artem_bay1"
