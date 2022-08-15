@@ -1,10 +1,10 @@
 # Discord-stream-selfbot
 Discord stream selfbot with image and bottom text in status
 
-#How to get account token?
+# How to get account token?
 Check this video: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 
-#How to set image?
+# How to set image?
 1. Go to Discord developers portal https://discord.com/developers
 2. Select any application
 3. Copy application id and paste in code
