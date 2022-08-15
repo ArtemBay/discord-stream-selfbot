@@ -1,6 +1,8 @@
 # Discord-stream-selfbot
 Discord stream selfbot with image and bottom text in status
 
+![banner](https://i0.wp.com/gridinsoft.com/blogs/wp-content/uploads/2020/05/discord_01.jpg?resize=1140%2C600&ssl=1)
+
 # How to get account token?
 Check this video: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 
@@ -9,7 +11,7 @@ You can check my video: https://youtu.be/XHeuwy5gP9k
 or follow text guide
 
 1. Go to Discord developers portal https://discord.com/developers
-2. Select any application
+2. Select any application (or create it)
 3. Copy application id and paste in code
 4. Go to Rich Presence tab
 5. Press CTRL + SHIFT + I and go to Network tab
