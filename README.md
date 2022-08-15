@@ -5,6 +5,8 @@ Discord stream selfbot with image and bottom text in status
 Check this video: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 
 # How to set image?
+You can check my video or 
+
 1. Go to Discord developers portal https://discord.com/developers
 2. Select any application
 3. Copy application id and paste in code
