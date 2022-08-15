@@ -9,7 +9,7 @@ Check this video: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 2. Select any application
 3. Copy application id and paste in code
 4. Go to Rich Presence tab
-5. Press CTRL + SHIFT +I and go to Network tab
+5. Press CTRL + SHIFT + I and go to Network tab
 6. Upload image
 7. Copy image id
 8. Paste image id in code
