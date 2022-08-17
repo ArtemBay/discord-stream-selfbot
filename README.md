@@ -1,4 +1,4 @@
-# Discord-stream-selfbot
+# Discord stream selfbot
 Discord stream selfbot with image and bottom text in status
 
 ![banner](https://cdn.discordapp.com/attachments/884982510013022251/1008620032479219783/unknown.png)
